@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-const employee = { name: "Sam" };
+const employee = { name: "aras" };
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
 	const updated = { ...employee };
